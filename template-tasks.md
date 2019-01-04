@@ -1,0 +1,8 @@
+- [ ] Update the README.md file (including competencies section)
+- [ ] Update the title of the boot camp in `docs/_config.yml`
+- [ ] Update the title of the boot camp in `docs/_posts/0000-00-01-intro.md`
+- [ ] Update the title of the boot camp in `exercises/java/gradle.properties`
+- [ ] In ‘Settings’ on github.com, set the GitHub Pages ‘Source’ to be `master branch /docs folder`
+- [ ] Change the repo `Description` to `Slides:` and the ‘Website’ to the URL GitHub Pages has published to
+- [ ] Pick some appropriate repository collaborators to have admin access
+- [ ] Update `summary-for-organisations.md` (replace all ‘XXX’s)
