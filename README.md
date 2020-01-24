@@ -46,60 +46,16 @@ The slides can be viewed from the link at the top of the repository.
 ## Exercises
 
 * TBC
-<!--- 
-* Setting up CI?
-* Branching and creating Pull Requests?
-* Resolving, tracing, telneting?
----> 
 
 # Boot Camp Summary
 
+## Day One
 
-## Planned
+* TBC
 
-* Working with products and Refining requirements
-* Agile + related methodologies
-* Coupling and Cohesion
-* Revisit data store - Relational vs Not
-* CRC + Diagrams / OO Design
-* Composition vs Inheritance
+## Day Two
 
-## Carried over
-
-* Test Doubles
-* Dependency Injection
-* Mocking frameworks
-* 2nd Tier of Testing Pyramid
-* Intro to Data Stores - Repo Pattern
-* Continuous Integration as a demo
-* CI practical
-* Branching / PRs
-* Trunk development vs branch development
-* How the internet works
-
-<!--- 
-
-## Continuous Integration
-
-* What is CI
-* Why is CI important
-* Demo of how CI can be applied to a project (Travis or similar against public repo)
-* CI practical—setting up Travis or similar on own repo?
-
-## More on source control
-
-* Branching
-* Pull requests
-* Trunk vs branch development
-
-# How the internet works
-
-* Hostnames, IP, DNS
-* Networking
-* Physical infrastructure
-* HTTP
-
---->
+* TBC
 
 # Briefing for organisation mentors
 
